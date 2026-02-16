@@ -7,7 +7,7 @@ Sou estudante de Tecnologia da Informação com foco em desenvolvimento de softw
 Possuo experiência prática com programação, bancos de dados e estruturação de sistemas por meio de projetos acadêmicos e pessoais.
 
 <div> 
-  <a href ="emailto:liedsonpaiva60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:liedsonpaiva60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liedson-p-aa8093236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://insaniis.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a> 
   <a href="https://instagram.com/liedson_paiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
